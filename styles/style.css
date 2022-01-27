@@ -1,0 +1,9 @@
+*{
+font-family: "Courier New", monospace;
+}
+*{
+    background-color: rgb(252, 248, 240);
+} 
+ul{
+    list-style-type: circle;
+}

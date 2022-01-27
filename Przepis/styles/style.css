@@ -1,0 +1,16 @@
+*{
+    font-family: "Courier New", monospace;
+}
+img{
+  height:auto;
+  width: 350px;
+}
+*{
+    background-color: rgb(252, 248, 240);
+}    
+div{
+    font-weight: 550;
+}
+ul{
+    list-style-type: circle;
+}
